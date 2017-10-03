@@ -12,4 +12,4 @@ Fork it, play with it and improve it!
 - Guilin
 
 ## Hurray!!
-kadslfj
+I am so excited to start this journey.
