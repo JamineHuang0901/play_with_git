@@ -25,3 +25,10 @@ _testing_
 3. monkey
 
 ![chai Dog](chai dog.gif)
+
+
+![Beauty](beauty.jpg)
+
+Thank you guys!
+
+> if you want to know more, please e-mail me.
