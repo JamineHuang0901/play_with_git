@@ -24,7 +24,7 @@ _testing_
 2. dog
 3. monkey
 
-![chai Dog](chai dog.gif)
+![chai](chai.gif)
 
 
 ![Beauty](beauty.jpg)
